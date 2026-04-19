@@ -3,6 +3,8 @@
 ## About This Project
 I built this project to practice SQL in a more practical way. Instead of only focusing on syntax, I tried to understand what the data is saying and how it can support business decisions.
 
+SQL project analyzing sales and customer behavior with business insights
+
 ## Dataset
 The project uses three tables:
 - Customers
